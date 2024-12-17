@@ -99,9 +99,9 @@ A React-based project for text manipulation and formatting.
 
 ## 📬 Let’s Connect!
 
-- 💌 **Email**: shivamrathore8890756821@gmail.com
+- 💌 **Email**: [Shivamrathore@gmail.com](shivamrathore8890756821@gmail.com)
 - 💼 **LinkedIn**: [Shivam Singh Rathore](https://www.linkedin.com/in/shivam-singh-rathore-17a254246/)
-- 🌐 **Portfolio**: [Your Portfolio Link](#)
+- 🌐 **Portfolio**: [My Protfolio](https://my-protfolio-d9ee8.web.app/)
 
 ---
 
